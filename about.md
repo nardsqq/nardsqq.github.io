@@ -11,7 +11,7 @@ Hopefully I can write regularly or at least once a month. Happy reading!
 ### Questions
 
 * _What's with the special characters "&++"?_  
-  It's just a sudden thought in my head, it's just a _dumb_ "translation" of the word _encounter_.  
+  It's just a sudden thought in my head, it's a _dumb_ "translation" of the word _encounter_.  
 
 * _Will you be updating regularly?_  
   Hopefully, yes.
