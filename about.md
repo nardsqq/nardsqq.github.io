@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is my personal blog, wherein I muse about my experiences as a software engineer. I try to discuss and describe different tech related topics with my own perspective. It's a great start, I also want to post about the things I learn when possible, every bits and pieces that I can think of.
+This is my personal blog, wherein I muse about my experiences as a software engineer. I try to discuss and describe different tech related topics with my own perspective. I also want to post about the things I learn when possible, every bits and pieces that I can think of.
 
 Hopefully I can write regularly or at least once a month. Happy reading!
 
