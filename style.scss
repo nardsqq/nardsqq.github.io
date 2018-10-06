@@ -39,7 +39,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $merriweather;
-  color: $lightGray;
+  color: $darkGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -76,7 +76,7 @@ p {
 }
 
 a {
-  color: $darkerGray;
+  color: $darkGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
