@@ -17,7 +17,7 @@
 
 // Font Variables
 $cousine: 'Cousine', monospace;
-$merriweather: 'Merriweather', sans-serif;
+$merriweather: 'Merriweather Sans', sans-serif;
 
 html {
   font-size: 100%;
@@ -248,12 +248,6 @@ nav {
 //
 // .main
 //
-
-article > .entry > p{
-  font-family: $merriweather;
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
 
 .posts > .post {
   font-family: $merriweather;
