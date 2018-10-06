@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: hel·lo world
 ---
 
 To be honest, I don't really know why did I end up setting up a blog all of sudden. As far as I know, I'm just good with reading blog posts not writing them.  
