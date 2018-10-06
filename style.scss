@@ -30,6 +30,10 @@ body {
   color: $darkGray;
 }
 
+title {
+  font-weight: 200;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -275,8 +279,9 @@ nav {
   }
 
   .read-more {
+    float: right;
     text-transform: lowercase;
-    font-size: 15px;
+    font-size: 8px;
   }
 }
 
