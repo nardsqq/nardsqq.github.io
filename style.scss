@@ -249,6 +249,12 @@ nav {
 // .main
 //
 
+article > .entry > p{
+  font-family: $merriweather;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
+}
+
 .posts > .post {
   font-family: $merriweather;
   padding-bottom: 2em;
@@ -275,7 +281,7 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 15px;
   }
 }
