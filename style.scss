@@ -13,11 +13,11 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Cousine');
+@import url('https://fonts.googleapis.com/css?family=Cousine|Merriweather+Sans');
 
 // Font Variables
 $cousine: 'Cousine', monospace;
-$raleway: 'Raleway', sans-serif;
+$merriweather: 'Merriweather', sans-serif;
 
 html {
   font-size: 100%;
@@ -38,7 +38,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $raleway;
+  font-family: $merriweather;
   color: $darkerGray;
   font-weight: bold;
 
@@ -201,7 +201,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $raleway;
+  font-family: $merriweather;
   font-weight: 300;
   font-size: 22px;
   letter-spacing: 1px;
@@ -220,7 +220,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $raleway;
+  font-family: $merriweather;
   font-size: 14px;
 
   @include mobile {
