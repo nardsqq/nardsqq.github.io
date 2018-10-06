@@ -16,7 +16,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cousine');
 
 // Font Variables
-$cousine: 'Cousine', sans-serif;
+$cousine: 'Cousine', monospace;
 $raleway: 'Raleway', sans-serif;
 
 html {
@@ -26,6 +26,7 @@ html {
 body {
 	background: $white;
   font: 14px/1.4 $cousine;
+  font-weight: 400;
   color: $darkGray;
 }
 
