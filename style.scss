@@ -30,10 +30,6 @@ body {
   color: $darkGray;
 }
 
-title {
-  font-weight: 200;
-}
-
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -73,12 +69,6 @@ h3 {
 h4 {
   font-size: 16px;
   color: $gray;
-}
-
-.post-title {
-  font-family: $merriweather;
-  color: #0F1419;
-  font-size: 15px;
 }
 
 p {
@@ -260,7 +250,7 @@ nav {
 //
 
 .posts > .post {
-  font-family: $merriweather;
+  font-family: $cousine;
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
