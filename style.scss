@@ -16,7 +16,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cousine');
 
 // Font Variables
-$inconsolata: 'Inconsolata', sans-serif;
+$cousine: 'Cousine', sans-serif;
 $raleway: 'Raleway', sans-serif;
 
 html {
@@ -25,7 +25,7 @@ html {
 
 body {
 	background: $white;
-  font: 14px/1.4 $inconsolata;
+  font: 14px/1.4 $cousine;
   color: $darkGray;
 }
 
