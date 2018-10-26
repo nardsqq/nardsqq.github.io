@@ -16,6 +16,10 @@ Hopefully I can write regularly or at least once a month. Happy reading!
 * _Will you be updating regularly?_  
   Hopefully, yes.
 
-### Contact me
+### Let's connect!
 
-[nardparagas@gmail.com](mailto:nardparagas@gmail.com)
+**Email:** [nardparagas@gmail.com](mailto:nardparagas@gmail.com)
+**LinkedIn:** [John Bernard Paragas](https://www.linkedin.com/in/john-bernard-paragas-9a1691143/)
+**Twitter:** [@_nardoq](https://twitter.com/_nardoq)
+**Github:** [nardsqq](https://github.com/nardsqq)
+**Medium:** [@NardsQQ](https://medium.com/@NardsQQ)
