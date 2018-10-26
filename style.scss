@@ -200,12 +200,15 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray !important;
   cursor: pointer;
   font-family: $merriweather;
   font-weight: 300;
   font-size: 22px;
   letter-spacing: 1px;
+}
+
+#site-heading {
+  color: $darkGray !important;
 }
 
 .site-description {
