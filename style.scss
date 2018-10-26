@@ -200,7 +200,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $darkGray !important;
   cursor: pointer;
   font-family: $merriweather;
   font-weight: 300;
