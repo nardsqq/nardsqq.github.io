@@ -18,8 +18,8 @@ Hopefully I can write regularly or at least once a month. Happy reading!
 
 ### Let's connect!
 
-**Email:** [nardparagas@gmail.com](mailto:nardparagas@gmail.com)  
-**LinkedIn:** [John Bernard Paragas](https://www.linkedin.com/in/john-bernard-paragas-9a1691143/)  
-**Twitter:** [@_nardoq](https://twitter.com/_nardoq)  
-**Github:** [nardsqq](https://github.com/nardsqq)  
-**Medium:** [@NardsQQ](https://medium.com/@NardsQQ)  
+**Email:** <a href="mailto:nardparagas@gmail.com">nardparagas@gmail.com</a>  
+**LinkedIn:** <a href="https://www.linkedin.com/in/john-bernard-paragas-9a1691143" target="_blank">John Bernard Paragas</a>  
+**Twitter:** <a href="https://twitter.com/_nardoq" target="_blank">@_nardoq</a>  
+**Github:** <a href="https://github.com/nardsqq" target="_blank">nardsqq</a>  
+**Medium:** <a href="https://medium.com/@NardsQQ" target="_blank">@NardsQQ</a>  
