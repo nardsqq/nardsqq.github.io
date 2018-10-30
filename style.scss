@@ -245,10 +245,6 @@ nav {
   }
 }
 
-//
-// .main
-//
-
 .posts > .post {
   font-family: $cousine;
   padding-bottom: 2em;
@@ -290,10 +286,9 @@ footer {
   text-align: center;
 }
 
-.main-page-date {
-  
+.page-titles {
+  color: #1C1C1C;
 }
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
