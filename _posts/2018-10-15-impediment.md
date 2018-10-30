@@ -23,4 +23,4 @@ It was the best decision I made so far in this project.
 
 I learned a lot that day, she taught me how should I consume the api endpoints with AngularJS's [scope](https://www.w3schools.com/angular/angular_scopes.asp) and how to tackle other bugs that I encountered before. After that, I smiled and gave my thanks to her. And, I'm still learning, the key takeaway about this is that you should confront the situation, address it, and then handle it. Asking for help doesn't mean you're incompetent, if you think this way, you will just miss out the chances that you might have missed by not asking. If you have issues with a monolith's codebase, just fix it yourself, don't dwell on it.
 
-I think is one of those "lessons" that is learned the hard way. That's it for tonight. Happy coding!
+I think this is one of those "lessons" that is learned the hard way. That's it for tonight. Happy coding!
