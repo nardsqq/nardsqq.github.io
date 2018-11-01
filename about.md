@@ -16,6 +16,14 @@ Hopefully I can write regularly or at least once a month. Happy reading!
 * _Will you be updating regularly?_  
   Hopefully, yes.
 
+### Tools
+
+Here's a list of what's in my magical toolbox!
+
+**For writing and editing code/text files:**  
+* [Visual Studio Code](https://code.visualstudio.com/)  
+_Back then I was a Sublime fan but since a lot of powerful plugins for VSCode came, I made the switch._
+
 ### Let's connect!
 
 **Email:** <a href="mailto:nardparagas@gmail.com">nardparagas@gmail.com</a>  
