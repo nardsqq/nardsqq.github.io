@@ -21,16 +21,22 @@ Hopefully I can write regularly or at least once a month. Happy reading!
 Here's a list of what's in my magical toolbox!
 
 **For writing and editing code/text files:**  
-[Visual Studio Code](https://code.visualstudio.com/)  
 _Back then I was a Sublime fan but since a lot of powerful plugins for VSCode came, I made the switch._
 
+* [Visual Studio Code](https://code.visualstudio.com/)  
+
+
 **Command Line Interface:**  
-* [Hyper](https://hyper.is/)  
 _If you're a developer who owns a Windows machine, Hyper is the go-to CLI that I'd recommend to you. I use it as a container to Git Bash._
 
+* [Hyper](https://hyper.is/)  
+
+
 **For writing drafts and/or markdown preview:**  
-[Boostnote](https://boostnote.io/)  
 _This was a quick pickup, I love writing in markdown format and it has a great preview feature._
+
+* [Boostnote](https://boostnote.io/)  
+
 
 ### Let's connect!
 
