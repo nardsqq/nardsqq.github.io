@@ -41,12 +41,12 @@ much you've changed and improved. You should be proud of yourself.
 
 Still having issues with it? Here's a recap.
 
-This year, you passed your final requirement in college, your thesis.
-This year, you graduated and made your parents/guardians proud.
-This year, you got hired. You're still struggling but let me remind you, it's just your first year, don't rush.
-This year, you're still alive and kicking you lucky bastard. You're blessed, and you're not alone.
+This year, you passed your final requirement in college, your thesis.  
+This year, you graduated and made your parents/guardians proud.  
+This year, you got hired. You're still struggling but let me remind you, it's just your first year, don't rush.  
+This year, you're still alive and kicking you lucky bastard. You're blessed, and you're not alone.  
 
-Lots of pain, lots of sacrifices, but we did it.
+Lots of pain, lots of sacrifices, but we did it.  
 
 Thanks to the people that kept me going. I would love to mention you guys but that would make this post even
 more cheesy haha.
