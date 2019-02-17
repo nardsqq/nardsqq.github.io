@@ -37,7 +37,7 @@ that juicy configuration file.
 After opening the config file, we'll now wrap Hyper around Git Bash, so this one's a bit tricky but it's actually easy to do. So let's
 get started. Scroll down until you see this line:
 
-![](blob:https://carbon.now.sh/7d031d4f-dc2a-4ad8-8be6-949be30d1ac3)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/NPM8vDy"><a href="//imgur.com/NPM8vDy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Below it, you'll see the _shell:_ variable, just assign your git-cmd.exe's $PATH and then we'll continue. So in my case, it'll look like
 this:
