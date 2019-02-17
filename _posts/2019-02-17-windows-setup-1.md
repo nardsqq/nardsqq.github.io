@@ -3,7 +3,7 @@ layout: post
 title: win·dows set·up (1)
 ---
 
-"Even the simplest tools can empower people to do great things."
+> "Even the simplest tools can empower people to do great things."
 
 The quote itself is easy to understand, but I just really included it because it sounded cool lol.
 
