@@ -23,8 +23,7 @@ After downloading, just use the setup or install wizard provided and I recommend
 or if not, then default to _disk C:_.
 
 Now that we have Git, of course we'll love to have a package manager for our assets, so let's install _Node_ and its package manager.
-Proceed to https://nodejs.org/en/ and you'll see two huge buttons saying that their download buttons for Windows users. I'd reco-
-mmend choosing the Long Term Support (LTS) release over the other since it's stable and the community's used to it for quite some
+Proceed to https://nodejs.org/en/ and you'll see two huge buttons saying that their download buttons for Windows users. I'd recommend choosing the Long Term Support (LTS) release over the other since it's stable and the community's used to it for quite some
 time (asking for help will be easier). Afterwards, just do the same process that you did earlier with Git. This already includes
 both _NodeJS_ and _NPM_ so no worries.
 
