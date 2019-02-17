@@ -29,7 +29,7 @@ both _NodeJS_ and _NPM_ so no worries.
 
 Then, we'll have a simple recap, you now have your almighty Git with Git Bash and Git CMD, NodeJS and its widely known package manager.
 I don't know if you're contented with Windows CMD but I'm not. So, now you're thinking that I'll just recommend Git Bash instead. If
-that's what in your head right now, then you're right. But, we'll make it prettier, cause it looks bad as well. So let's go and go
+that's what in your head right now, then you're right. But, we'll make it prettier, cause it looks bad as well. So let's go over
 to https://hyper.is/ and extend our Git Bash to it. Just click that beautiful _Download Hyper for Windows_ button and install
 it like we did earlier _Déjà vu?_. After installation, just start Hyper and then hit `Ctrl + ," on your keyboard to bring out
 that juicy configuration file.
