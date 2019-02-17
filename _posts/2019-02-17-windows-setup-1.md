@@ -37,7 +37,10 @@ that juicy configuration file.
 After opening the config file, we'll now wrap Hyper around Git Bash, so this one's a bit tricky but it's actually easy to do. So let's
 get started. Scroll down until you see this line:
 
-![](https://imgur.com/a/NPM8vDy)
+
+<img src="https://imgur.com/a/NPM8vDy"
+     alt="Config"
+     style="text-align: center;"/>
 
 Below it, you'll see the _shell:_ variable, just assign your git-cmd.exe's $PATH and then we'll continue. So in my case, it'll look like
 this:
