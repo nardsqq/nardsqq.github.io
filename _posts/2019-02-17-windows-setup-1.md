@@ -37,10 +37,7 @@ that juicy configuration file.
 After opening the config file, we'll now wrap Hyper around Git Bash, so this one's a bit tricky but it's actually easy to do. So let's
 get started. Scroll down until you see this line:
 
-<iframe
-  src="https://carbon.now.sh/embed/?bg=rgba(249%2C237%2C212%2C1)&t=twilight&wt=none&l=auto&ds=true&dsyoff=1px&dsblur=5px&wc=false&wa=true&pv=56px&ph=56px&ln=false&fm=IBM%20Plex%20Mono&fs=14px&lh=143%25&si=false&code=%252F%252F%2520-%2520Example%253A%2520%2560C%253A%255C%255CWINDOWS%255C%255CSystem32%255C%255CWindowsPowerShell%255C%255Cv1.0%255C%255Cpowershell.exe%2560&es=2x&wm=false"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
+![](blob:https://carbon.now.sh/7d031d4f-dc2a-4ad8-8be6-949be30d1ac3)
 
 Below it, you'll see the _shell:_ variable, just assign your git-cmd.exe's $PATH and then we'll continue. So in my case, it'll look like
 this:
