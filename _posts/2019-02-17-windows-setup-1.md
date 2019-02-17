@@ -17,13 +17,13 @@ No configurations that usually involves an editor or the terminal will occur. Bu
 of the two or something similar, then I'll help you _up_ your game a bit.
 
 I believe most if not all of us developers are required to learn Git or other version control systems so we'll start with setting 
-it up on our machine. First we'll navigate to _https://git-scm.com/_ then on the lower right part of the page, you'll find a
+it up on our machine. First we'll navigate to https://git-scm.com/ then on the lower right part of the page, you'll find a
 download button for Windows (just click it, the version's not important, take the latest source release and you're good).
 After downloading, just use the setup or install wizard provided and I recommend that you use a separate disk for this
 or if not, then default to _disk C:_.
 
 Now that we have Git, of course we'll love to have a package manager for our assets, so let's install _Node_ and its package manager.
-Proceed to _https://nodejs.org/en/_ and you'll see two huge buttons saying that their download buttons for Windows users. I'd reco-
+Proceed to https://nodejs.org/en/ and you'll see two huge buttons saying that their download buttons for Windows users. I'd reco-
 mmend choosing the Long Term Support (LTS) release over the other since it's stable and the community's used to it for quite some
 time (asking for help will be easier). Afterwards, just do the same process that you did earlier with Git. This already includes
 both _NodeJS_ and _NPM_ so no worries.
@@ -31,7 +31,7 @@ both _NodeJS_ and _NPM_ so no worries.
 Then, we'll have a simple recap, you now have your almighty Git with Git Bash and Git CMD, NodeJS and its widely known package manager.
 I don't know if you're contented with Windows CMD but I'm not. So, now you're thinking that I'll just recommend Git Bash instead. If
 that's what in your head right now, then you're right. But, we'll make it prettier, cause it looks bad as well. So let's go and go
-to _https://hyper.is/_ and extend our Git Bash to it. Just click that beautiful _Download Hyper for Windows_ button and install
+to https://hyper.is/ and extend our Git Bash to it. Just click that beautiful _Download Hyper for Windows_ button and install
 it like we did earlier _Déjà vu?_. After installation, just start Hyper and then hit `Ctrl + ," on your keyboard to bring out
 that juicy configuration file.
 
@@ -74,7 +74,7 @@ Then we'll have to fill the other one:
 },
 ```
 
-And that's it! Just refresh or re-open your hyper app and now you can customize it, just go to _https://hyper.is/themes_ if you love
-changing themes or go to _https://github.com/bnb/awesome-hyper_ to see the list of awesome hyper plugins.
+And that's it! Just refresh or re-open your hyper app and now you can customize it, just go to https://hyper.is/themes if you love
+changing themes or go to https://github.com/bnb/awesome-hyper to see the list of awesome hyper plugins.
 
 So that's the part 1 of our setup post, I'll put part 2 on another one since this is really long. See you on part 2!
