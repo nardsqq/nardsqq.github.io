@@ -3,7 +3,7 @@ layout: post
 title: win·dows set·up (1)
 ---
 
-> "Even the simplest tools can empower people to do great things."
+"Even the simplest tools can empower people to do great things."
 
 The quote itself is easy to understand, but I just really included it because it sounded cool lol.
 
@@ -37,10 +37,9 @@ that juicy configuration file.
 After opening the config file, we'll now wrap Hyper around Git Bash, so this one's a bit tricky but it's actually easy to do. So let's
 get started. Scroll down until you see this line:
 
-
-<img src="https://imgur.com/a/NPM8vDy"
-     alt="Config"
-     style="text-align: center;"/>
+```
+// - Example: `C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe`
+```
 
 Below it, you'll see the _shell:_ variable, just assign your git-cmd.exe's $PATH and then we'll continue. So in my case, it'll look like
 this:
