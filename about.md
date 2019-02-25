@@ -38,12 +38,7 @@ _This was a quick pickup, I love writing in markdown format and it has a great p
 **A place to keep my configurations and notes** —
 _My memory's not that good so I needed a place to dump my notes and configurations, Github's Gist is my current go-to._
 
-* [Gist](https://gist.github.com)  
-
-**To keep track of my activities** —
-_It's a recent pickup but I decided to use a task manager app and ended up choosing Todoist._
-
-* [Todoist](https://todoist.com)  
+* [Gist](https://gist.github.com)    
 
 **Web Based Version Control Platform** —
 _For side projects, Github is king. At work, we use Gitlab because of its free unlimited private repositories._
@@ -66,7 +61,7 @@ _Currently, I'm used to Facebook's Messenger app but I'd like to make a switch t
 ### Let's connect!
 
 **Email:** <a href="mailto:nardparagas@gmail.com">nardparagas@gmail.com</a>  
-**LinkedIn:** <a href="https://www.linkedin.com/in/john-bernard-paragas-9a1691143" target="_blank">John Bernard Paragas</a>  
-**Twitter:** <a href="https://twitter.com/_nardoq" target="_blank">@_nardoq</a>  
+**LinkedIn:** <a href="https://www.linkedin.com/in/john-bernard-paragas" target="_blank">John Bernard Paragas</a>  
+**Twitter:** <a href="https://twitter.com/nardsparagas" target="_blank">@nardsparagas</a>  
 **Github:** <a href="https://github.com/nardsqq" target="_blank">nardsqq</a>  
 **Medium:** <a href="https://medium.com/@NardsQQ" target="_blank">@NardsQQ</a>  
