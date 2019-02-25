@@ -62,6 +62,6 @@ _Currently, I'm used to Facebook's Messenger app but I'd like to make a switch t
 
 **Email:** <a href="mailto:nardparagas@gmail.com">nardparagas@gmail.com</a>  
 **LinkedIn:** <a href="https://www.linkedin.com/in/john-bernard-paragas" target="_blank">John Bernard Paragas</a>  
-**Twitter:** <a href="https://twitter.com/nardsparagas" target="_blank">@nardsparagas</a>  
+**Twitter:** <a href="https://twitter.com/nards_paragas" target="_blank">@nards_paragas</a>  
 **Github:** <a href="https://github.com/nardsqq" target="_blank">nardsqq</a>  
 **Medium:** <a href="https://medium.com/@NardsQQ" target="_blank">@NardsQQ</a>  
