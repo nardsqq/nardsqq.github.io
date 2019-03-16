@@ -21,11 +21,11 @@ Here's some of the most notable plugins that I install on my VSCode:
 * File Utils - easily create, duplicate, move, and rename files on the go
 * GitLens - explore your files and you'll be able to see who wrote that faulty code a month ago 😂
 * Material Icon Theme - one of the best icon themes developed, it just suits any of the editor's theme
-* mardownlint - who told you that you don't have to lint your markdown files?
+* markdownlint - who told you that you don't have to lint your markdown files?
 
 Now we're done adding the _batteries_, it's time to setup our development environment.
 
-I mostly work with PHP, Javascript, and the Laravel framework at work. I just recently picked up NodeJS so I've tried to look for a more powerful and flexible local development server other than the usual portable XAMPP. After pulling my hair out by trying out Laradock or running Docker Desktop for Windows to manage my containers, I've finally decided to just stick with a plug and play client called [Laragon](https://laragon.org/). Aside from being built on top of the all time familiar WampServer, it's also adaptable to change. You can just add a new package or application within and you'll be able to use it together. I won't tell you how I ended up on Laragon anymore but you can check the testimonials page on their page to know more about the said local development environment.
+I mostly work with PHP, Javascript, and the Laravel framework at work. I just recently picked up NodeJS so I've tried to look for a more powerful and flexible local development server other than the usual portable XAMPP. After pulling my hair out by trying out Laradock or running Docker Desktop for Windows to manage my containers, I've finally decided to just stick with a plug and play client called [Laragon](https://laragon.org/). Aside from being built on top of the all time familiar WampServer, it's also adaptable to change. You can just add a new package or application within and you'll be able to use it together. You can also check the testimonials page on their website to know more about the said local development environment.
 
 It comes out of the box with different databases, a _quick create_ functionality that allows you to install fresh projects, an intuitive dashboard, and the reliable cmder as terminal. But these are not the reasons that made me do the switch from Laradock, what it gave me really is its _Pretty URLs_ or the _Auto Virtual Hosts_ feature. You can easily create a fresh project within the `laragon\www\` directory and Laragon will generate a pretty url for you. So if you have a fresh project named _to-do-app_, you'll have: `to-do-app.test` by default but you can easily change that through the `Menu > Preferences` tab.
 
