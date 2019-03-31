@@ -29,7 +29,7 @@ I mostly work with PHP, Javascript, and the Laravel framework at work. I just re
 
 It comes out of the box with different databases, a _quick create_ functionality that allows you to install fresh projects, an intuitive dashboard, and the reliable cmder as terminal. But these are not the reasons that made me do the switch from Laradock, what it gave me really is its _Pretty URLs_ or the _Auto Virtual Hosts_ feature. You can easily create a fresh project within the `laragon\www\` directory and Laragon will generate a pretty url for you. So if you have a fresh project named _to-do-app_, you'll have: `to-do-app.test` by default but you can easily change that through the `Menu > Preferences` tab.
 
-That's all I can offer for now, if you'd like to know more about Laragon, you check out their [documentation](https://laragon.org/docs/).
+That's all I can offer for now, if you'd like to know more about Laragon, you check can out their [documentation](https://laragon.org/docs/).
 
 In the future, I'll also write a more detailed step-by-step guide using the updated Windows Subsystem for Linux for Windows 10 machines together with _oh-my-zsh_, _Vim_ as our primary editor, and make it more flexible like an actual unix based machine.
 
