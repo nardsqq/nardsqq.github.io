@@ -31,6 +31,6 @@ It comes out of the box with different databases, a _quick create_ functionality
 
 That's all I can offer for now, if you'd like to know more about Laragon, you check can out their [documentation](https://laragon.org/docs/).
 
-In the future, I'll also write a more detailed step-by-step guide using the updated Windows Subsystem for Linux for Windows 10 machines together with _oh-my-zsh_, _Vim_ as our primary editor, and make it more flexible like an actual unix based machine.
+In the future, I'll also write a more detailed step-by-step guide using the updated *Windows Subsystem for Linux* for Windows 10 machines together with _oh-my-zsh_, _Vim_ as our primary editor, and make it more flexible like an actual unix based machine.
 
 Thank you for reading!
