@@ -165,8 +165,8 @@ Here's how it looks on the browser!
 
 ![Hello World Sample](https://i.imgur.com/GKXoFFh.png)
 <figcaption>
-    This is a screenshot in 300% zoom made with <a href="https://www.screely.com/">Screely</a>
-</figcaption>.
+    This is a screenshot in 300% zoom made with <a href="https://www.screely.com/">Screely</a>.
+</figcaption>
 
 <hr/>
 
