@@ -5,7 +5,7 @@ title: re·act and tail·wind
 
 Recently, I've been having fun with writing front-end code using _utility-first_ CSS frameworks instead of full-blown toolkit ones like [Bootstrap](https://getbootstrap.com/) and [Bulma](https://bulma.io/). It helps me build and customize my page components immediately without having to write my own CSS from scratch. After seeing the attention that [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/) is getting from different communities and platforms, I decided to try it in one of my personal projects. It made styling pages more fun because it's so easy to use and the documentation is really intuitive. 
 
-Since it's component-friendly, I tried using it on my following project with create-react-app to learn how well it fits with Single-Page Applications. :sunglasses:
+Since it's component-friendly, I tried using it on my following project with create-react-app to learn how well it fits with Single-Page Applications.
 
 And now, I will help you setup your own create-react-app project with Tailwind CSS. Let's get started!
 
@@ -170,4 +170,4 @@ Here's how it looks on the browser!
 
 <hr/>
 
-That's a wrap! Thanks for reading and I hope that I was able to introduce this setup properly. :smile:
+That's a wrap! Thanks for reading and I hope that I was able to introduce this setup properly.
