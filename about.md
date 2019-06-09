@@ -51,8 +51,7 @@ _My memory's not that good so I needed a place to dump my notes and configuratio
 
 _**Update:** After transferring to a new role and company, I now use Github most of the time. Especially after the free private repository update._
 
-* [Github](https://github.com)  
-* [Gitlab](https://about.gitlab.com/)  
+* [Github](https://github.com)
 
 **Password Manager** —
 _I don't really like the use of password managers (I'm a privacy freak) but here's the one I'm using when I need to._
