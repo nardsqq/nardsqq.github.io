@@ -47,7 +47,7 @@ _My memory's not that good so I needed a place to dump my notes and configuratio
 * [Gist](https://gist.github.com)    
 
 **Web Based Version Control Platform** —
-~For side projects, Github is king. At work, we use Gitlab because of its free unlimited private repositories.~
+~~For side projects, Github is king. At work, we use Gitlab because of its free unlimited private repositories.~~
 
 _**Update:** After transferring to a new role and company, I now use Github most of the time. Especially after the free private repository update._
 
