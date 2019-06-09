@@ -31,7 +31,7 @@ _**Update:** I'm currently in the process of learning Vim as an alternative to V
 **Command Line** —
 _If you're a developer who owns a Windows machine, Hyper is the go-to CLI that I'd recommend to you. I [use](https://gist.github.com/nardsqq/5722649b31b11b9a0c2e9836f949e1df) it as a container to Git Bash._
 
-_**Update:** I switched platforms (I'm on Linux Ubuntu 18.04 now), so I'm currently working with the default Gnome Terminal with Zsh contained with Oh My Zsh as my command interpreter but I still use Hyper from time to time if I'm required to work with PHP and Laravel on Windows. Also, I haven't uploaded my local dotfiles yet but I'll be sure to share it to you guys soon._
+_**Update:** I switched platforms (I'm on Linux Ubuntu 18.04 now), so I'm currently working with the default Gnome Terminal with Oh My Zsh configuration on top of Zsh as my command interpreter but I still use Hyper from time to time if I'm required to work with PHP and Laravel on Windows. Also, I haven't uploaded my local dotfiles yet but I'll be sure to share it to you guys soon._
 
 * [Hyper](https://hyper.is/)
 * [Oh My Zsh](https://ohmyz.sh/)
