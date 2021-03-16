@@ -31,7 +31,7 @@ _**Update (2021):** I'm still currently in the process of learning Vim as an alt
 **Command Line** —
 ~~If you're a developer who owns a Windows machine, Hyper is the go-to CLI that I'd recommend to you. I [use](https://gist.github.com/nardsqq/5722649b31b11b9a0c2e9836f949e1df) it as a container to Git Bash.~~
 
-_**Update (2021):** _I switched platforms multiple times from **Linux Ubuntu 18.04** in a dual-boot setup into a Linux PC with a fully installed **Manjaro XFCE** environment then when the pandemic hit I had to use my personal computer so I went with a **WSL2 + Ubuntu 20.04** setup, that being said I'm currently working with the default Gnome Terminal with Oh My Zsh configuration on top of Zsh as my command interpreter. I can't find the use for Hyper anymore since I can work in Linux most of the time even in a Windows machine._
+_**Update (2021):** _I switched platforms multiple times from **Linux Ubuntu 18.04** in a dual-boot setup into a Linux PC with a fully installed **Manjaro XFCE** environment then when the pandemic hit I had to use my personal computer so I went with a **WSL2 + Ubuntu 20.04** setup, that being said I'm currently working with Windows Terminal + Oh My Zsh configuration on top of Zsh as my command interpreter. I can't find the use for Hyper and Git Bash anymore since I can work in Linux most of the time even in a Windows machine._
 
 * [Oh My Zsh](https://ohmyz.sh/)
 
