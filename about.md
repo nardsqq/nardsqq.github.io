@@ -60,7 +60,7 @@ _I don't really like the use of password managers (I'm a privacy freak) but here
 **Messaging** —
 ~~Currently, I'm used to Facebook's Messenger app but I'd like to make a switch to Telegram. In addition, for work and tech community chatting, there's Slack.~~
 
-_**Update (2021):**_ I still use Facebook's Messenger from time to time but me and my close friends switch to Discord during the pandemic and it's working like a charm for us right now. Doing a voice call is easy as a snap and we can discuss about different topics and keep them in their respective channels without being confused.
+_**Update (2021):**_ I still use Facebook's Messenger from time to time but me and my close friends switched to Discord during the pandemic and it's working like a charm for us right now. Doing a voice call is easy as a snap and we can discuss about different topics and keep them in their respective channels without being confused.
 
 * [Discord](https://discord.com/)
 * [Messenger](https://www.messenger.com/)
