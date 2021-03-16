@@ -69,9 +69,9 @@ _**Update (2021):**_ I still use messenger from time to time but me and my close
 
 ### Let's connect!
 
-**Email:** <a href="mailto:nardparagas@gmail.com">nardparagas@gmail.com</a>
-**LinkedIn:** <a href="https://www.linkedin.com/in/john-bernard-paragas" target="_blank">John Bernard Paragas</a>
-**Twitter:** <a href="https://twitter.com/nards_paragas" target="_blank">@nards_paragas</a>
-**Github:** <a href="https://github.com/nardsqq" target="_blank">nardsqq</a>
-**DEV** <a href="https://dev.to/nards_paragas" target="_blank">@nards_paragas</a>
-**Dribbble** <a href="https://dribbble.com/nards-paragas" target="_blank">nards-paragas</a>
+* **Email:** <a href="mailto:nardparagas@gmail.com">nardparagas@gmail.com</a>
+* **LinkedIn:** <a href="https://www.linkedin.com/in/john-bernard-paragas" target="_blank">John Bernard Paragas</a>
+* **Twitter:** <a href="https://twitter.com/nards_paragas" target="_blank">@nards_paragas</a>
+* **Github:** <a href="https://github.com/nardsqq" target="_blank">nardsqq</a>
+* **DEV** <a href="https://dev.to/nards_paragas" target="_blank">@nards_paragas</a>
+* **Dribbble** <a href="https://dribbble.com/nards-paragas" target="_blank">nards-paragas</a>
