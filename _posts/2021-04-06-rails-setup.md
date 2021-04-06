@@ -7,7 +7,7 @@ Right now, almost half of my career was spent writing PHP code in Laravel. It wa
 
 In this setup guide, I'm working with a _WSL2 + Ubuntu 20.04_ environment so it might be different to yours. If you're on a UNIX-based system, that shouldn't stop you from following through. In addition, you might want to swap out that SQLite with a fresh PostgreSQL install (I'm not going to teach this now but you can search for a bunch of articles online that will help you out depending on your machine). Now, let's get started!
 
-Now, let's install _asdf_ on our machine. We need `git` as it is a dependency before you can get asdf so make sure you have that as well. Also, _asdf_ has a pretty straightforward [documentation](https://asdf-vm.com/#/core-manage-asdf) so definitely check it out if you can.
+Let's install _asdf_ on our machine. We need `git` as it is a dependency before you can get _asdf_ so make sure you have that as well. Also, _asdf_ has a pretty straightforward [documentation](https://asdf-vm.com/#/core-manage-asdf) so definitely check it out if you can.
 
 First, let's clone the latest branch:
 
