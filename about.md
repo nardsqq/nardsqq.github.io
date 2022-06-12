@@ -23,22 +23,22 @@ I prefer to be tool agnostic but here's a list of the ones I usually use.
 **Text/Code Editor** —
 _Back then I was a Sublime fan but since a lot of powerful plugins for VSCode came, I made the switch. For my VSCode settings, you can check [this](https://gist.github.com/nardsqq/e4b0a0b131952c6ccabe3c8926cacb35)._
 
-_**Update (2021):** I'm still currently in the process of learning Vim as an alternative to VSCode for software development. You can clone my personal Vim settings [here](https://github.com/nardsqq/.vim)._
+_**Update (2022):** Since I'm now specializing on the front-end, I decided to drop Vim for writing code and use it entirely as my terminal editor since VSCode has much better JS/CSS support and hints. Still, you can clone my personal Vim settings [here](https://github.com/nardsqq/.vim)._
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Vim](https://www.vim.org/)
 
 **Command Line** —
-~~If you're a developer who owns a Windows machine, Hyper is the go-to CLI that I'd recommend to you. I [use](https://gist.github.com/nardsqq/5722649b31b11b9a0c2e9836f949e1df) it as a container to Git Bash.~~
 
-_**Update (2021):**_ I switched platforms multiple times from **Linux Ubuntu 18.04** in a dual-boot setup into a Linux PC with a fully installed **Manjaro XFCE** environment then when the pandemic hit I had to use my personal computer so I went with a **WSL2 + Ubuntu 20.04** setup, that being said I'm currently working with Windows Terminal + Oh My Zsh configuration on top of Zsh as my command interpreter. I can't find the use for Hyper and Git Bash anymore since I can work in Linux most of the time even in a Windows machine.
+_**Update (2022):** I switched platforms multiple times from **Linux Ubuntu 18.04** in a dual-boot setup into a Linux PC with a fully installed **Manjaro XFCE** environment then when the pandemic hit I had to use my personal computer so I went with a **WSL2 + Ubuntu 20.04** setup, that being said I'm currently working with Windows Terminal + Oh My Zsh configuration on top of Zsh as my command interpreter. I can't find the use for Hyper and Git Bash anymore since I can work in Linux most of the time even in a Windows machine._ 
 
 * [Oh My Zsh](https://ohmyz.sh/)
+* [Spaceship Prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 
 **For writing drafts and/or markdown preview** —
-_This was a quick pickup, I love writing in markdown format and it has a great preview feature._
+_**Update (2022):** I've dropped Boostnote, tried Notion but moved forward with Obsidian for now._
 
-* [Boostnote](https://boostnote.io/)
+* [Obsidian](https://obsidian.md/)
 
 **A place to keep my configurations and notes** —
 _My memory's not that good so I needed a place to dump my notes and configurations, Github's Gist is my current go-to._
@@ -46,26 +46,21 @@ _My memory's not that good so I needed a place to dump my notes and configuratio
 * [Gist](https://gist.github.com)
 
 **Web Based Version Control Platform** —
-~~For side projects, Github is king. At work, we use Gitlab because of its free unlimited private repositories.~~
 
-_**Update:** After transferring to a new role and company, I now use Github most of the time. Especially after the free private repository update._
+_**Update (2022):** Never left GitHub ever since I moved into it in 2021._
 
 * [Github](https://github.com)
 
-**Password Manager** —
-_I don't really like the use of password managers (I'm a privacy freak) but here's the one I'm using when I need to._
-
-* [LastPass](https://www.lastpass.com/)
-
 **Messaging** —
-~~Currently, I'm used to Facebook's Messenger app but I'd like to make a switch to Telegram. In addition, for work and tech community chatting, there's Slack.~~
 
-_**Update (2021):**_ I still use Facebook's Messenger from time to time but me and my close friends switched to Discord during the pandemic and it's working like a charm for us right now. Doing a voice call is easy as a snap and we can discuss about different topics and keep them in their respective channels without being confused.
+_**Update (2022):** I still use Facebook's Messenger from time to time but me and my close friends switched to Discord during the pandemic and it's working like a charm for us right now. Doing a voice call is easy as a snap and we can discuss about different topics and keep them in their respective channels without being confused._
 
 * [Discord](https://discord.com/)
 * [Messenger](https://www.messenger.com/)
-* [Slack](www.slack.com/‎)
-* [Telegram](https://telegram.org/)
+
+**Tech Stack** —
+
+_**Update (2022):** If you're curious on which technologies I'm working with and learning currently, check [this](https://gist.github.com/nardsqq/f0c8947194b4cc0cece993770a5c6275)._
 
 ### Let's connect!
 
