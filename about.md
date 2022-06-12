@@ -48,7 +48,7 @@ _My memory's not that good so I needed a place to dump my notes and configuratio
 
 **Web Based Version Control Platform** —
 
-_**Update (2022):** Never left GitHub ever since I moved into it in 2021._
+_**Update (2022):** Never left GitHub ever since I moved into it in 2019._
 
 * [Github](https://github.com)
 
