@@ -35,7 +35,8 @@ _**Update (2022):** I switched platforms multiple times from **Linux Ubuntu 18.0
 * [Oh My Zsh](https://ohmyz.sh/)
 * [Spaceship Prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 
-**For writing drafts and/or markdown preview** —
+**For writing drafts and/or markdown preview** —  
+
 _**Update (2022):** I've dropped Boostnote, tried Notion but moved forward with Obsidian for now._
 
 * [Obsidian](https://obsidian.md/)
