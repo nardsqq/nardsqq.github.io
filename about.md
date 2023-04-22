@@ -59,10 +59,6 @@ _**Update (2022):** I still use Facebook's Messenger from time to time but me an
 * [Discord](https://discord.com/)
 * [Messenger](https://www.messenger.com/)
 
-**Tech Stack** —
-
-_**Update (2022):** If you're curious on which technologies I'm working with and learning currently, check [this](https://gist.github.com/nardsqq/f0c8947194b4cc0cece993770a5c6275)._
-
 ### Let's connect!
 
 **Email:** <a href="mailto:nardparagas@gmail.com">nardparagas@gmail.com</a>  
